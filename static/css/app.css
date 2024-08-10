@@ -1,0 +1,30 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.board {
+    margin: 0 auto;
+    font-size: 1.5rem;
+}
+
+td {
+    padding: 0.5rem;
+}
+
+#boggle {
+    text-align: center;
+}
+
+.words {
+    list-style-type: none;
+    padding: 0;
+    border: 0.1rem solid black;
+    width: 18rem;
+    margin: 0 auto;
+    background-color: lightcyan;
+}
+
